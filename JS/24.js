@@ -1,3 +1,4 @@
+// LOOPS.
 //for loop
 // nos indica que el index = 0, el loop se va a repetir hasta que la condicion no se pueda cumplir.
 // indica si el index es menor o igual a 10 se repetira el loop, por lo que seria 0 es menor a 10?
