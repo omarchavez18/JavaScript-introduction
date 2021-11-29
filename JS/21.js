@@ -25,17 +25,26 @@ const carrito = [
   { nombre: "laptop", precio: 800 },
 ];
 
+let i = 0;
+while (i < carrito.length) {
+  console.log(carrito[i].precio);
+  i++;
+}
+
+//
 for (let i = 0; i < carrito.length; i++) {
   console.log(carrito[i].precio);
 }
 
 let precioCarro = carrito.map((carro) => carro.precio * 2);
 
+precioCarro;
+
+//
+
 carrito.forEach((carro) => {
   console.log(carro.precio);
 });
-
-precioCarro;
 
 meses.forEach((mes) => {
   if (mes == "marzo") {
