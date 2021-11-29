@@ -22,15 +22,16 @@ for (let i = 1; i <= 100; i++) {
 
 //while loop
 
-let i = 1;
+let i = 1; // index
 
 while (i <= 10) {
+  //condicion
   if (i % 2 === 0) {
     console.log(`el numero ${i} es par`);
   } else {
     console.log(`el numero ${i} es impar`);
   }
-  i++;
+  i++; // incremento
 }
 
 // do while loop
