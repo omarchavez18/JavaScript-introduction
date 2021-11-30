@@ -11,7 +11,7 @@ const carrito = [
 
 //ForEach y Map solo se pueden ejecutar en arreglos.
 
-//ForEach con arrow function.
+//ForEach con arrow function..
 
 carrito.forEach((producto) => console.log(producto.nombre));
 
