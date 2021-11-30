@@ -35,5 +35,3 @@ while (i <= 10) {
 }
 
 // do while loop
-
-let i = 0;
