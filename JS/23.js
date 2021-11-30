@@ -39,3 +39,19 @@ switch ("senior") {
     console.log("not al all");
     break;
 }
+
+//another example.
+switch ("money") {
+  case "money":
+    console.log("this its one of the most important things in the world");
+
+    break;
+  case "health":
+    console.log("its really important for your life Time.");
+    break;
+
+  default:
+    console.log("keep trying to succeed yourself");
+
+    break;
+}
