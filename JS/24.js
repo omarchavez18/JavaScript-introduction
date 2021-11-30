@@ -34,4 +34,10 @@ while (i <= 10) {
   i++; // incremento
 }
 
-// do while loop
+// do while loop.
+
+// let i = 100;
+// do {
+//   console.log(i);
+//   i++;
+// } while (i < 10);
